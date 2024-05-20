@@ -5,7 +5,7 @@ updates:
     schedule:
       interval: 'monthly'
     reviewers:
-      - 'ggkim0614'
+      - 'devjiwonchoi'
     groups:
       prod:
         dependency-type: 'production'
